@@ -1,1 +1,14 @@
-
+body {
+  background-color: darkred;
+}
+p {
+  color: black;
+  margin-left: 20px;
+  font-family: "Lucida Handwriting", Times, cursive
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
