@@ -2,9 +2,9 @@ body {
   background-color: darkred;
 }
 p {
+  text-align: center;
   color: black;
-  margin-left: 20px;
-  font-family: "Lucida Handwriting", Times, cursive
+  font-family: "Lucida Handwriting", cursive    
 }
 img {
   display: block;
